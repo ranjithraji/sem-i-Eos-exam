@@ -1,0 +1,656 @@
+/*navbar*/
+.india-craft-nav-content{
+    font-size:18px;
+    font-weight: 400;
+    position: relative;
+    top:10px;
+    color:white;
+}
+.india-craft-nav-btn{
+    border-radius: 10px;
+    border:solid 1px black;
+    background-color: rgba(185, 150, 150, 1);
+    text-align: center;
+    padding:4px;
+    padding-left:0px;
+    width:80%;
+}
+.india-craft-nav-img{
+    width:60px;
+}
+
+.india-craft-modal-con {
+    background-color:#f9f9f99c;
+}
+.india-craft-search-modal-con{
+    width: 1104px;
+    border-radius: 0px;
+    position: relative;
+    right: 348px;
+    top: 37px;
+    padding: 60px;
+    background-color: rgba(185, 150, 150, 1);
+}
+.sam-nav-con{
+    box-shadow:0px 0px 4px gray;
+    border:solid 1px white;
+}
+.sam-nav{
+    width:100%;
+    height:50px ;
+}
+.sam-nav-srec-btn{
+        outline: none;
+        border-radius:0px;
+        border:solid 1px white; 
+        background-color:white;
+        box-shadow:none !important;
+}
+.sam-nav-srec-btn :focus{
+    border:solid 1px #d8d2d240;
+    background-color:white;
+}
+.sam-nav-img{
+   display: inline;
+}
+.sam-nav-img-content{
+    position: relative;
+    left:30px;
+    bottom:20px;
+    font-size:13px;
+    font-weight:400;
+    display:inline;
+}
+.sam-nav-img-content1{
+    position: relative;
+    left:45px;
+    bottom:30px;
+    font-size:13px;
+    font-weight:400;
+    display:inline;
+}
+.sam-modal-btn{
+    margin-left:5%;
+    display:inline;
+    width:90%;
+    background-color:#311013 ;
+    color:white;
+    font-size:18px;
+    box-shadow:0px 4px 4px gray;
+}
+.sam-modal-content{
+    position: relative;
+    left:80%;
+    padding:5% ;
+}
+.sam-modal-con{
+    font-size:14px;
+    font-weight:500;
+    color:#ccc2c2;
+    margin-left:20px ;
+}
+.sam-modal-title{
+    font-size: 23px;
+    margin-left: 0px;
+    font-weight: 500;
+}
+/*panra*/
+.indai-craft-pan-con{
+    width:100%;
+    margin-top: 10px;
+    background-color:#DECD6E;
+    height:310px;
+    box-shadow: 4px 4px 4px gray;
+}
+.indai-craft-pan-img{
+    position: relative;
+    left: 400px;
+    bottom: 0px;
+    top: 10px;
+    width: 460px;
+}
+.india-carousel-con{
+    width: 100%;
+    height: 310px;
+    margin-top: 10px;
+    box-shadow: 4px 4px 4px gray;
+}
+.india-carousel-img{
+    width: 100%;
+    height: 310px;
+}
+.india-carousel-idi{
+    position: absolute;
+    right: 0;
+    top: 320px;
+}
+.indai-craft-add-con{
+    width:100%;
+    margin-top: 50px;
+    height:310px;
+}
+.indai-craft-add-img{
+    width:100%;
+    box-shadow: 4px 4px 4px gray;
+}
+.india-carft-cel-title{
+    margin-top:40px;
+    font-size: 28px;
+    font-weight:600px;
+    color: #311013;
+    text-align: center;
+}
+.india-carft-cel-gel{
+    width: 100%;
+    margin-top:40px;
+    padding-left:25px;
+    height: auto;
+}
+.india-carft-cel-gel-con{
+    /*margin-left:10px;*/
+}
+.india-carft-cel-gel-img{
+    width:100%;
+    height: 350px;
+}
+.indai-carft-top-con{
+    margin-top:20px;
+    width:100%;
+    height:50px;
+    background-color: #311013;
+    box-shadow: 4px 4px 4px gray;
+}
+.indai-carft-top-text{
+    font-size:22px;
+    font-weight: 400;
+    position: relative;
+    top:10px;
+    color:white;
+    text-align:center;
+}
+.india-carft-footer {
+    width:100%;
+    background-color:#DECD6E;
+    padding-left:0%;
+    color:black;
+    text-align: center;
+}
+/*product*/
+.india-carft-prod-con{
+    width:99%;
+    margin-top: 5px;
+    padding:10px;
+    margin-left:5px;
+
+}
+.india-carft-prod-vi{
+    border:solid 1px black;
+    padding: 1%;
+    width: 100%;
+    height: auto;
+    box-shadow: 0px 4px 4px gray;
+}
+.india-carft-prod-card{
+    width:100%;
+    padding: 1%;
+    height: auto;
+    border:solid 1px black;
+    box-shadow: 0px 4px 4px gray;
+}
+.india-carft-prod-img{
+    width:100%;
+    height:250px;
+}
+.india-carft-prod-inner-con{
+    width:100%;
+    padding-left:10px;
+}
+.india-carft-prod-inner-img{
+    width: 85px;
+    margin-left:0px;
+    height: 90px;
+}
+.india-carft-prod-details-top{
+    color:black;
+    font-size:12px;
+}
+.india-carft-prod-details{
+    color:black;
+    font-size:18px;
+    margin-left:20px;
+    margin-top:20px;
+}
+.india-carft-prod-btn{
+    width:100%;
+    height: auto;
+    border:solid 1px black;
+    box-shadow: 4px 4px 4px gray;
+}
+.india-carft-prod-btn-img{
+   margin-left:40% ;
+    width:250px;
+    height:60px;
+}
+/*card*/
+.bag-logo{
+    margin-left:41px; 
+}
+.bag-nav{
+    width:100%; 
+    height:80px; 
+    box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.bag-title{
+    font-size:15px;
+    font-weight:500;
+    color:dimgray;
+}
+.bag-title-con{
+    margin-top:-40px; 
+    margin-left:38%;
+    width:500px; 
+}
+.bag-title-side-con{
+    margin-top:-40px; 
+    margin-left:87%; 
+}
+.bag-title-side{
+    font-size:15px;
+    margin-top:3%; 
+    font-weight:500;
+    color:dimgray;
+}
+.bag-offer-box{
+    margin-right:10%;
+    border-left:solid 1px #63c786; 
+    width:100%;
+    border-radius:3px; 
+    padding:1%;  
+    border:solid 1px gainsboro;
+}
+.bag-offer-title{
+    font-size:15px;
+    margin:1%; 
+    font-weight:500;
+    color:#63c786;
+}
+.bag-offer-li {
+    font-size:13px;
+    margin:1%; 
+    font-weight:400;
+    color:grey;
+    line-height:25px;  
+}
+.bag-del-box{
+    margin-right:10%;
+    border-left:solid 1px #63c786; 
+    width:100%;
+    height: auto;
+    border-radius:3px; 
+    padding:1%;  
+    border:solid 1px gainsboro;
+    
+}
+.bag-del{
+    display: initial;
+    font-size:13px;
+    margin:1%; 
+    font-weight:600;
+    color:grey;
+    line-height:25px;
+}
+.bag-item{
+    font-size:15px;
+    font-weight:700;
+    color:black;
+    line-height:25px; 
+}
+.bag-item-total{
+    display: initial;
+    font-size:15px;
+    float:right;
+    font-weight:700;
+    color:black;
+    line-height:25px; 
+}
+.bag-item-box{
+    margin-right:10%;
+    margin-left:0px; 
+    width:100%;
+    height: auto;
+    border-radius:3px; 
+    padding-bottom:1%;  
+    border:solid 1px gainsboro;
+}
+.bag-item-img{
+    height:90%; 
+    margin-left:-15px; 
+}
+.bag-item-col{
+    margin-left:0px; 
+    width:100%;
+    height: auto;
+}
+.bag-item-can{
+     font-size:13px;
+     font-weight:400;
+     color:black;
+     line-height:15px; 
+}
+.bag-item-btn{
+    color: gray;
+    border:0px;
+    font-size:15px; 
+    font-weight:700;   
+    background-color:white;
+}
+.bag-table{
+    margin-top:35px;
+    font-weight: 500;
+    color: black;
+}
+.bag-add-wish{
+    margin-right:10%;
+    margin-left:0px; 
+    margin-top: 20px;
+    width:100%;
+    height: auto;
+    border-radius:3px; 
+    padding:3%;  
+    border:solid 1px gainsboro;
+}
+.bag-add-con{
+     font-size:15px;
+     font-weight:700;
+     color:black;
+     line-height:15px;
+}
+.bag-left-con{
+    font-size:13px;
+    margin:1%; 
+    font-weight:600;
+    color:grey;
+    line-height:30px;
+}
+.bag-left-con1{
+    font-size:13px;
+    margin:1%; 
+    font-weight:200;
+    color:black;
+    line-height:30px;
+}
+.bag-left-con2{
+    font-size:13px;
+    font-weight:200;
+    color:black;
+    text-align:right; 
+    line-height:25px;
+}
+.bag-left-botm{
+    font-size:13px;
+    margin:1%; 
+    font-weight:600;
+    color:grey;
+    line-height:30px;
+}
+/* address*/
+.address-logo{
+    margin-left:51px; 
+}
+.address-select-con{
+    border-right:1px solid rgba(0,0,0,.125);
+}
+.address-nav{
+    width:100%; 
+    height:80px; 
+    box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.address-title{
+    font-size:15px;
+    font-weight:500;
+    color:dimgray;
+}
+.address-title-con{
+    margin-top:-40px; 
+    margin-left:32%;
+    width:500px; 
+}
+.address-title-side-con{
+    margin-top:-40px; 
+    margin-left:87%; 
+}
+.address-title-side{
+    font-size:15px;
+    margin-top:3%; 
+    font-weight:500;
+    color:dimgray;
+}
+.address-con-sel{
+    max-width: 86%;
+    padding: 1%;
+    box-shadow:4px 4px 4px 4px rgba(0, 0, 0, 0.15); 
+    margin-top: 30px;
+    height: auto;
+}
+.address-con-sel-row{
+    width:99%;
+    margin-left:1%;
+    margin-top:5px;
+    padding:1%;
+    
+}
+.address-card{
+    height:295px;
+    width:90%;
+    box-shadow:4px 4px 4px  rgba(0, 0, 0, 0.15); 
+    
+}
+.address-card-dot{
+    height:295px;
+    width:90%;
+    margin-left: 0px;
+    padding-top:30%;
+    border:dotted 1px gainsboro;
+}
+
+.address-select-title{
+    font-weight:600;
+    font-size:17px;
+    color:#596062;
+}
+.address-select-name{
+    margin-left:1%; 
+    font-weight:600;
+    font-size:16px;
+    color:#3e4152;
+    padding-bottom:10px; 
+}
+.address-select-name-con{
+    margin-left:25px; 
+    font-size:13px;
+    font-family: Whitney,Helvetica,Arial,sans-serif;
+    color:gray;
+}
+.address-button-con{
+    padding:5%; 
+    margin-top:35px;
+    text-align: center;
+    border-top:1px solid rgba(0,0,0,.125);
+    width:98%;
+}
+.address-button{
+    padding-top:15%;
+    text-align:center;
+    font-weight:100;
+    font-size:15px;
+    color:blue;
+}
+/*right----*/
+.address-rigth-con{
+    padding-top:1%; 
+}
+.address-rigth-speed-con{ 
+    margin-left:2% !important;
+    width:98%;
+}
+.address-right-title{
+    font-size:11px;
+    color:#7e818c;
+    font-family: Whitney,Helvetica,Arial,sans-serif;
+    
+}
+.address-rigth-speed{
+   width:100%;
+    padding-top:4%;
+    padding-left:6%; 
+    padding-bottom:3%; 
+    border:1px solid #eaeaec;
+   box-shadow:4px 4px 4px  rgba(0, 0, 0, 0.15);
+}
+.address-right-speed-cot{
+    font-size:13px;
+    margin-left:20px;
+    font-family: Whitney,Helvetica,Arial,sans-serif;
+    color:#424553;
+}
+.address-right-img{
+    height: 66px;
+    width: 50px;
+    border: 1px solid #d5d6d9;
+    background: url('https://assets.myntassets.com/h_64,q_100,w_48/v1/assets/images/2363519/2018/3/19/11521436951299-Roadster-Men-Black-Regular-Fit-Solid-Regular-Trousers-6881521436951060-1.jpg');
+}
+.address-right-img-cont{
+    font-size:13px;
+    margin-top: -44px;
+    margin-left:60px; 
+    font-weight: 600;
+    color:#3e4152;
+    font-family: Whitney,Helvetica,Arial,sans-serif;
+}
+.address-right-price{
+    font-size:14px;
+    color:#596062;
+    font-weight:600;
+     font-family: Whitney,Helvetica,Arial,sans-serif;
+}
+.address-right-price-del{
+    padding-top:2%; 
+    padding-bottom:4%;
+    border-top:dotted 2px gainsboro;
+    border-bottom:dotted 2px gainsboro;
+    width: 95%;
+    height: auto;
+}
+.address-right-price-con{
+    font-size:14px;
+    line-height: 20px;
+    color:#596062;
+    font-weight:400;
+    font-family: Whitney,Helvetica,Arial,sans-serif;
+}
+.address-right-price-con1{
+    text-align: right;
+    font-size:14px;
+    line-height: 20px;
+    color:#596062;
+    font-weight:400;
+     font-family: Whitney,Helvetica,Arial,sans-serif;
+}
+.address-right-price-total{
+    font-weight:600;
+    color:black;
+    font-size:15px;
+      font-family: Whitney,Helvetica,Arial,sans-serif;
+    line-height: 20px;
+}
+.address-right-price-total1{
+    text-align: right;
+    font-weight:600;
+    color:black;
+    font-size:15px;
+    font-family: Whitney,Helvetica,Arial,sans-serif;
+    line-height: 20px;
+    
+}
+.address-btn{
+    width:95%;
+    margin-left:5%; 
+    height:40px;
+    background-color: #ff3f6c;
+    color:#fff;
+    font-size:14px;
+    font-weight: 600;
+    
+}
+.address-tog{
+    display:none; 
+}
+.container {
+  position: relative;
+  padding-top: 25px;
+  margin-top: 10px;
+}
+
+.input-text {
+  padding: 10px 5px;
+}
+
+
+/* the second part of the trick is that you place your label to
+look like a placeholder */
+
+label.move-out {
+  position: absolute;
+  top: 35px;
+  left:16px;
+  color: #424553;
+  font-size:13px;
+  transition: top 0.4s, left 0.4s
+}
+input:focus+label.move-out,
+input:not( :placeholder-shown)+label.move-out,
+input:-webkit-autofill+label.move-out {
+  top:10px;
+  left:16px;
+  transition: top 0.4s, left 0.4s;
+  color: #03a685;
+}
+.address-form{
+    width:100%;
+    height: auto;
+    border: 1px solid #d5d6d9;
+}
+.address-form-input{
+     border:0px; 
+     border-bottom:solid 1px gray; 
+}
+.address-form-top{
+    width:110%; 
+    margin-left:-5%;
+    padding-top:6%;
+    border-bottom:1px solid #d5d6d9;
+    
+}
+.address-form-bottom{
+    width:110%;
+    margin-left:-5.5%;  
+    padding:6%;
+    margin-top:0px;; 
+    border-top:1px solid #d5d6d9;
+    position: relative;
+    height:auto;
+}
+.address-form-btn{
+    margin-left:30%;
+    width:40%; 
+    height:40px;
+    background-color:#ff3f6c;
+    color:#fff;
+}
+.address-form-med{
+    width:109%;
+    margin-left:-4.5%; 
+    max-height: 72vh;
+    overflow: scroll;
+}
+
